@@ -1,0 +1,117 @@
+.container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-family: 'Roboto', sans-serif;
+}
+
+.header{
+    width: 1366px;
+    height: 768px;
+    background-image: url('../images/Mask\ group.png');
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.header_link{
+    margin-top: 35px;
+}
+
+.header_title{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 60px;
+    line-height: 70px;
+    color: #F0F0F0;
+    margin-top: 227px;
+}
+
+.header_text{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 23px;
+    color: #F0F0F0;
+    margin-top: 75px;
+}
+
+.header_btn{
+    width: 206px;
+    height: 57px;
+    background: #FF9728;
+    border-radius: 84px;
+    border: none;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 21px;
+    line-height: 25px;
+    text-align: center;
+    color: #FFFFFF;
+    margin-top: 31px;
+    cursor: pointer;
+}
+
+.get, .rent{
+    padding: 120px;
+    width: 1366px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 415px;
+    background-color: #DEF0FF;
+}
+
+.rent{
+    height: 497px;
+}
+
+.get_title, .rent_title{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 47px;
+    color: #0F4C92;
+    opacity: 0.77;
+}
+
+.get_text {
+    width: 745px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 22px;
+    text-align: center;
+    color: #0F4C92;
+    margin-top: 40px;
+}
+
+.rent_text{
+    width: 745px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 21px;
+    text-align: center;
+    color: #0F4C92;
+    margin-top: 40px;
+
+}
+
+.articles{
+    width: 1366px;
+    height: 2084px;
+}
+
+.book{
+    width: 1366px;
+    height: 542px;
+    background-color: #B5E4FF;
+}
+
