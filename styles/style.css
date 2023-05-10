@@ -149,6 +149,7 @@ span{
     line-height: 25px;
     text-align: center;
     color: #FFFFFF;
+    cursor: pointer;
 }
 
 .book{
@@ -194,6 +195,7 @@ span{
     line-height: 25px;
     color: #FFFFFF;
     margin-top: 30px;
+    cursor: pointer;
 }
 
 
